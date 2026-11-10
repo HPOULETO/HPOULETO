@@ -1,10 +1,10 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=70&fontColor=#FFB3CB&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<div data-importer="image" align="right">
+<div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://c.tenor.com/6wDQsQ-l15oAAAAd/tenor.gif"  />
 </div>
 
