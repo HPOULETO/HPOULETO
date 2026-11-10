@@ -4,12 +4,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://c.tenor.com/6wDQsQ-l15oAAAAd/tenor.gif"  />
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://c.tenor.com/6wDQsQ-l15oAAAAd/tenor.gif"  />
+</div>
 
 ###
-
-
-
 
 <h1 data-importer="text" align="left">👋 What's up?</h1>
 
