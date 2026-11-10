@@ -1,4 +1,14 @@
-<h1 data-importer="text" align="left">Hello 👋 What's up?</h1>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="200" src="https://c.tenor.com/6wDQsQ-l15oAAAAd/tenor.gif"  />
+
+###
+
+<h1 data-importer="text" align="left">👋 What's up?</h1>
 
 ###
 
@@ -41,3 +51,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
 </div>
+
+###
