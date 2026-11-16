@@ -1,57 +1,57 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=70&fontColor=#FFB3CB&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+<div align="center">
 
-###
+  <!-- Bannière bulle violette avec ton pseudo HPOULETO -->
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=b197fc&height=135&section=header&text=HPOULETO&fontSize=58&fontColor=000000&fontAlignY=43&animation=fadeIn" width="100%" alt="HPOULETO Banner" />
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://c.tenor.com/6wDQsQ-l15oAAAAd/tenor.gif"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="left">👋 What's up?</h1>
-
-###
-
-<p data-importer="text" align="left">My name is Esteban and I'm a student at Coda School, from Dijon (France)</p>
-
-###
-
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="center">📚 I'm currently learning C, HTML<br>🎯 Goal: Learn new things !<br>🎲 Fun fact: I like to repair things like phones !</p>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/esteban-georget/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <!-- Texte qui s'affiche petit à petit (effet machine à écrire) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=B197FC&center=true&vCenter=true&width=600&lines=Hello+World+!+I'm+Esteban+%F0%9F%91%8B;CS+Student+@+Coda+School+(Dijon,+France);Currently+learning+C,+Linux,+Docker+%26+Web;I+love+repairing+phones+%26+electronics+%F0%9F%94%A7;Looking+for+an+Apprenticeship+(Alternance)+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
-  <a href="mailto:esteban.georget@outlook.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+
+  <br><br>
+
+  <!-- Ton GIF du lézard -->
+  <img src="https://camo.githubusercontent.com/25165aecba149029d99d23db9b590145c1c60aea362b7f8e35dfd6f3f3e6a3e7/68747470733a2f2f632e74656e6f722e636f6d2f3677445173512d6c31356f41414141642f74656e6f722e676966" width="210" alt="Lizard waving" />
+
 </div>
 
-###
+<br>
+
+## 👋 What's up?
+
+My name is **Esteban** (`HPOULETO`) and I'm a computer science student at **Coda School**, from **Dijon (France)** 🇫🇷  
+I enjoy understanding how things work under the hood — whether that's writing code in **C**, tinkering with **Linux & Docker**, or opening up dead electronics to bring them back to life.
+
+---
+
+## About me
+
+<div align="center">
+
+📚 **I'm currently learning:** `C`, `HTML / CSS`, `Linux` & `Docker`  
+🎯 **Goal:** Find a **work-study contract (alternance)** & keep learning new things !  
+🎲 **Fun fact:** I love repairing things like smartphones, consoles & broken hardware ! 📱🔧
+
+</div>
+
+---
+
+## I code with
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+</p>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HPOULETO&theme=tokyonight&hide_border=true&ring=b197fc&fire=b197fc&currStreakLabel=b197fc" alt="GitHub Streak" />
+</div>
